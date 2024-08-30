@@ -16,12 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "https://bijanmohammadi.github.io/CV", title: "CV"}
+  - {file: "https://imag.umontpellier.fr/~mohamadi/OML/m1_oml_afaire.txt", title: "Blog OML"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://bijanmohammadi.github.io/CV/"}
+  - {title: Github, icon: github, url: "https://bijanmohammadi.github.io"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
