@@ -18,7 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://imag.umontpellier.fr/~mohamadi", title: "CV"} #file: "file_name_address.pdf"
   - {url: "https://imag.umontpellier.fr", title: "Lab"}
-  - {url: "https://imag.umontpellier.fr/~mohamadi/OML/m1_oml_afaire.txt", title: "Blog OML"}
+  - {url: "https://github.com/bijanmohammadi/OML/blob/main/M1_OML_README.txt", title: "Blog OML"}
+  #- {url: "https://imag.umontpellier.fr/~mohamadi/OML/m1_oml_afaire.txt", title: "Blog OML"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
